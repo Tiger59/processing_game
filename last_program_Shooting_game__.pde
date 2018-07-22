@@ -1,5 +1,6 @@
-/*岸本大河
- 11671045*/
+/*author Tiger
+2016
+*/
 
 int bullet = 0 ;//ショット数
 int score = 20;//スコア
